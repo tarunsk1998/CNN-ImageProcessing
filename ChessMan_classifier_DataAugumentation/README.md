@@ -10,7 +10,7 @@ In this Jupyter notebook we are building a image classification model to classif
 Kaggle dataset url: https://www.kaggle.com/niteshfre/chessman-image-dataset
 
 ### Why ChessMan dataset
-Chess has been a part of my life since the beginning. I always had the special place for Chess in my Heart. During Higher education and College the game has helped me in various way. As soon as I came across this dataset in Kaggle, I said to myself 'Why not!!'
+Chess has been a part of my life since the beginning. I always had the special place for Chess in my Heart. During Higher education and College the game had helped me in various way. As soon as I came across this dataset in Kaggle, I said to myself 'Why not!!'
 
 So I decided to build a model to identify Chess pieces out of my passion.
 
